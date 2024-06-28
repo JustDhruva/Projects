@@ -15,6 +15,10 @@ Provide step-by-step instructions on how to install your project.
 4. open xampp and start apache and mysql
 5. open the file on localhost
 
+
+*IMPORTANT*
+Copy these project files into the Xampp folder in your C Drive. locate htdocs folder and copy the project there for smooth operation. and make sure you rename the files and update them accordingly. 
+
 ## Features
 - dynamic responsive website
 - integrated databse
